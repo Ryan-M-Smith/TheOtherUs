@@ -1,0 +1,113 @@
+[Message: Preloader] BepInEx 6.0.0-be.559 - Among Us
+[Message: Preloader] BLEEDING EDGE Build #559 from fba4461f0e4cac377b88b4c3eee3a56254dec5a7 at master
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 32-bit (x86)
+[Info   : Preloader] Running under Unity v2020.3.22
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Info   :Unhollower] Registered mono type UnhollowerRuntimeLib.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [Submerged v2022.8.26]
+[Message: Submerged] Loading Submerged v2022.8.26
+[Info   :Unhollower] Registered mono type Submerged.UI.MonoBehaviours.CreditsScreenManager in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.UI.MonoBehaviours.LoadingManager in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.UI.MonoBehaviours.SubmergedVersionShower in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.SpawnIn.SubmarineSpawnInSystem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.SecuritySabotage.SubmarineSecuritySabotageSystem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.PlayerFloor.SubmarinePlayerFloorSystem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.PlayerFloor.MonoBehaviours.FloorHandler in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.Oxygen.SubmarineOxygenSystem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.Elevator.SubmarineElevatorSystem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.Elevator.MonoBehaviours.ElevatorMover in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.Elevator.MonoBehaviours.SubmarineElevator in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Systems.CustomSystems.BoxCat.SubmarineBoxCatSystem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.MonoBehaviours.ClickableSprite in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.MonoBehaviours.Draggable in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.MonoBehaviours.MinigameProperties in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.MonoBehaviours.NeedleBehaviour in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.CooldownPlayerTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.TrackMantaRay.TrackMantaMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.Surveillance.SubmarineSurvillanceMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SteadyHeartbeat.SteadyHeartbeatMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.StartSubmersible.StartSubmersibleMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.StartSubmersible.MonoBehaviours.SubmersibleSlider in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.StabilizeWaterLevels.BallastSabotageMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SpotWhaleShark.WhaleSharkMapIcon in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SpotWhaleShark.WhaleSharkMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SpotWhaleShark.WhaleSharkTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SpawnIn.SubmarineSelectSpawn in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SortScubaGear.SortScubaMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SortScubaGear.MonoBehaviours.ScubaGearItem in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.SortScubaGear.MonoBehaviours.SortScubaBox in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ShootDepthCharges.ShootDepthChargesMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ShootDepthCharges.MonoBehaviours.DepthCharge in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.RetrieveOxygenMask.OxygenSabotageMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.RetrieveOxygenMask.OxygenSabotageTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelveBooksMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelveBooksTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelvePart1 in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelvePart2 in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ResetBreakers.ResetBreakersMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ResetBreakers.MonoBehaviours.CircuitBreaker in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.RecordNavBeaconData.SetNavBeaconMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.RecordNavBeaconData.SetNavBeaconPart1 in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.RecordNavBeaconData.SetNavBeaconPart2 in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ReconnectPiping.ReconnectPipingMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ReconnectPiping.MonoBehaviours.PipeCell in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.PurchaseBreakfast.PurchaseBreakfastMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.PurchaseBreakfast.MonoBehaviour.CakeBehaviour in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.PlugLeaks.PlugLeaksMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.PlugLeaks.PlugLeaksTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.OxygenateSeaPlants.OxygenateCoralMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.OxygenateSeaPlants.MonoBehaviours.CoralBehaviour in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.OxygenateSeaPlants.MonoBehaviours.SlugBehaviour in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.MopPuddles.MopPuddlesMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.MopPuddles.MopPuddlesTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.MopPuddles.MonoBehaviours.PuddleBehaviour in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.MicrowaveLunch.MicrowaveLunchMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.MicrowaveLunch.MicrowaveLunchTask in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.LocateVolcanicActivity.LocateVolcanicActivityMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.LocateVolcanicActivity.MonoBehaviours.ConstantScroll in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.IdentifySpecimen.IdentifySpecimenMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.FixWiring.MonoBehaviours.KCEGListener in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.FeedPetFish.FeedFishMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.FeedPetFish.MonoBehaviours.DraggableFeeder in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.DoorSabotage.OpenDoorsMinigame_NoInterface in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.DoorSabotage.OpenDoorsMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.DispenseWater.DispenseWaterMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.DiagnoseElevators.DiagnoseElevatorsMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.CycleReactor.CycleReactorMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ClearUrchins.ClearUrchinsMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.ClearUrchins.MonoBehaviours.Urchin in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.CleanGlass.CleanGlassMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.CleanGlass.MonoBehaviours.Smudge in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.CamsSabotage.SetupCamsMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.CamsSabotage.MonoBehaviours.CamSlider in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Minigames.CustomMinigames.AlignTelescope.AlignTelescopeMinigame in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Map.MonoBehaviours.PlainSubmarineDoor in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Map.MonoBehaviours.PlayerShadowBehaviour in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Map.MonoBehaviours.ScuffnessDestroyer3000 in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Map.MonoBehaviours.SubmarineStatus in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Map.MonoBehaviours.SubmergedDeadBody in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Loading.MonoBehaviours.AssetLoader in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.Loading.MonoBehaviours.CustomPlayerData in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.KillAnimation.MonoBehaviours.CustomKillAnimationPlayer in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.HudMap.MonoBehaviours.SubmarineHudMap in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.ExileCutscene.MonoBehaviours.ExileParallax in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.ExileCutscene.MonoBehaviours.FishController in il2cpp domain
+[Info   :Unhollower] Registered mono type Submerged.ExileCutscene.MonoBehaviours.SubmergedExileController in il2cpp domain
+[Info   : Submerged] Loading AssetLoader
+[Info   : Submerged] Loading MapLoader
+[Info   : Submerged] Loading TranslationController_Initialize_Patch
+[Info   : Submerged] Loading StoreManager_Initialize_Patch
+[Info   :Unhollower] Registered mono type BepInEx.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
+[Info   :   BepInEx] Loading [The Other Roles CE 1.0.0]
+[Info   :The Other Roles CE] Adding 4 regions
+[Info   :Unhollower] Registered mono type TheOtherRoles.Modules.ModUpdateBehaviour in il2cpp domain
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Submerged] Loaded TranslationController_Initialize_Patch
+[Info   : Submerged] Loaded StoreManager_Initialize_Patch
+[Info   : Submerged] Loaded MapLoader
+[Info   : Submerged] Loaded AssetLoader
